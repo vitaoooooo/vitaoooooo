@@ -54,7 +54,15 @@ Busco evoluir constantemente.
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-    />
+/>
+<img
+    align="left"
+    alt="github"
+    title="github"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 
 <br/><br/>
 ---
