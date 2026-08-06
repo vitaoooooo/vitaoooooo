@@ -67,8 +67,6 @@ Busco evoluir constantemente.
 <br/><br/>
 ---
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitaoooooo&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoooooo&layout=compact&theme=tokyonight"/>
+
 </p>
 
