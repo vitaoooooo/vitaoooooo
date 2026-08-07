@@ -10,7 +10,7 @@
 ### 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend.
-Atualmente estou aprofundando meus conhecimentos em java, POO e construção de sistemas reais através de projetos.
+Atualmente estou aprofundando meus conhecimentos em java e construção de sistemas reais através de projetos.
 Busco evoluir constantemente.
 
 ### Linguagens e Tecnologias
