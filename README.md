@@ -48,11 +48,11 @@ Atualmente estou aprofundando meus conhecimentos em Java, Spring Boot, APIs REST
 />
 <img
     align="left"
-    alt="github"
-    title="github"
+    alt="git"
+    title="git"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
 />
 <img
     align="left"
